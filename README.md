@@ -14,7 +14,7 @@ A web-based platform that allows users to simulate buying and selling stocks wit
 ## Technology Stack
 
 - **Backend**: Flask (Python)
-- **Database**: SQLite with CS50 SQL library
+- **Database**: SQLite
 - **Frontend**: HTML, CSS, Bootstrap 4.1
 - **APIs**: IEX Cloud for real-time stock data
 
@@ -56,10 +56,6 @@ The application uses the following main tables:
 - The application uses a SQLite database named `finance.db` (not included in the repository)
 - Each new user starts with $10,000 in virtual cash
 - Stock data is provided by IEX Cloud, which requires an API key
-
-## License
-
-This project is part of a learning exercise in CS50 done in 2020 and is intended for educational purposes.
 
 ## Acknowledgements
 
